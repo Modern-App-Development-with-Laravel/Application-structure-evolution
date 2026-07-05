@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace Italofantone\Notes\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
